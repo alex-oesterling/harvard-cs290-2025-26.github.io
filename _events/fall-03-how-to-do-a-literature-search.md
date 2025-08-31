@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-09-27T09:45:00
+date: 2024-09-19T09:45:00
 name: Class
 description: 'How to do a literature search'
 hide_from_announcments: true
